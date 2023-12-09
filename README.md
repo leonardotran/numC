@@ -56,9 +56,8 @@ Provide answers to the following questions.
   - Task 2 (Speeding up matrix operations): 
 - Was this project interesting? What was the most interesting aspect about it?
   - It's a little bit work if you are not good at C and simd/openmd like me.
-  - I had to rewatch all the lectures and read most of the intrinsic guide for this short project T_T (although it's already been cut off by a lot). 
+  - I had to rewatch all the lectures and read most of the intrinsic guide for this short project. 
 - What did you learn?
   - I learned how to speedup the performance by using SIMD, Unrolling, OpenMD and other algorithm like repeated square 
 - Is there anything you would change?
-  - Using repeated square to speed up POW, maybe? I really want to try the recursive and repeated square for pow to speed it up, but I guess it's for after finals
-Last but not least, thank you course staff :).
+  - Using repeated square to speed up POW, maybe? I really want to try the recursive and repeated square for pow to speed it up:).
